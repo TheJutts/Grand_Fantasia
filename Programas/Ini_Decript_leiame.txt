@@ -1,0 +1,6 @@
+Leia-me :
+
+Para usar este arquivo, basta baixa-lo.
+Após isso, coloque-o em uma pasta juntamente com o arquivo "X_Xxxx.ini.bin" que você deseja desencriptar.
+Agora, arraste o arquivo "X_Xxxx.ini.bin" para cima do "Decript.exe".
+O prompt de comando vai abrir, você espera, logo após isso, aperte enter e pronto, você terá um arquivo "X_Xxxx.ini" pronto para abrir em seu ini editor.
